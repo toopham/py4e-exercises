@@ -5,7 +5,7 @@ Numerical Integration
 This project is optional and you are encouraged to work in a group to help each other but each person must turn in their own work.
 
 Use numerical integration to approximate area A.
-Integral from 1 to 5 of the x^23^x dx
+Integral from 1 to 5 of the `x^2*3^x dx`
 
 
 Write three functions in Python, each function takes in one parameter
